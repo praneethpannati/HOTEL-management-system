@@ -9,7 +9,7 @@ import pandas as pd
 dic_rooms_ac = {"401": 0, "402": 0, "403": 0, "404": 0, "201": 0, "202": 0, "203": 0, "204": 0}
 dic_rooms_nonac = {"101": 0, "102": 0, "103": 0, "104": 0, "301": 0, "302": 0, "303": 0, "304": 0,
                    "501": 0, "502": 0, "503": 0, "504": 0}
-# record={"ph no.":[name,ph no.,adres,room no.,roomprice,checkin,food]}
+
 temp_record = {}
 per_name = []
 per_phone = []
